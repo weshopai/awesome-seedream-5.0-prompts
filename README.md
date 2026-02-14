@@ -62,6 +62,132 @@ Seedream 5.0 is a next-generation multimodal reasoning and generation model desi
 
 > countinue updating...
 
+### No. 20
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+A heartwarming, candid photo of a golden retriever puppy playing in a field of autumn leaves. The puppy is mid-jump, with leaves flying around it, and has a joyful expression on its face. The afternoon sun should create a beautiful golden backlight, making the scene warm and magical. The focus should be perfectly on the puppy’s eyes, capturing its playful spirit. This demonstrates the ability to render dynamic action and emotion in animals. –ar 3:2
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+	
+<img width="4096" height="2737" alt="20" src="https://github.com/user-attachments/assets/3b714358-e18d-4c41-9018-6bf695cecdd1" />
+
+</div>
+
+### No. 19
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+h0674kz, hello kitty blowing up the office, retro film style, fine graininess
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+	
+![19](https://github.com/user-attachments/assets/0408bd50-da1e-4b16-844f-4c0c2d78afb1)
+
+</div>
+
+### No. 18
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+Close-up of {argument name="product" default="high-end lipstick"} placed on a black polished marble countertop, fresh rose petals naturally scattered, two softboxes at 45-degree side lighting combined with overhead honeycomb soft light to eliminate glare, liquid paste texture authentically presenting subtle sheen, pure white seamless background C4D render level, macro lens 100mm capturing details, commercial product photography, 16:9 e-commerce detail page composition, Photoshop precision retouching level
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+	
+<img width="4096" height="2304" alt="11" src="https://github.com/user-attachments/assets/78b5c33b-4f82-460e-8d93-6a5f863be2eb" />
+
+</div>
+
+### No. 17
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+Millennial digital camera style selfie, deliberate low-resolution feel (simulating 2000s 2-megapixel quality), covered with cool blue-purple filters, overexposed highlights and hard shadows caused by direct front flash, unique color shift and noise of CCD sensors, date watermark "{argument name="date" default="02/12/2025"}", grid line decoration, MySpace era social media texture, square 1:1 composition
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+	
+![10](https://github.com/user-attachments/assets/6bc5ee9c-4d3f-4682-bf3d-72d246432c70)
+
+</div>
+
+### No. 16
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+An anthropomorphic little rabbit, presented in the visual style of a daily snapshot, the photo has no clear subject or composition sense, and has slight motion blur. The protagonist occupies the center of the frame, a selfie headshot, with a world-weary expression on its face, wearing a badge with its own headshot around its neck. The background is an office scene, with a graphic design page on the computer screen next to it, creating a mundane yet unique atmosphere.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+	
+<img width="4096" height="4096" alt="9" src="https://github.com/user-attachments/assets/8ce242d3-622d-4042-b1d2-15285ff9e197" />
+
+</div>
+
+### No. 15
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+UI icon, a wallet filled with gold coins, a pile of gold coins, on the gold coins is the {argument name="currency type" default="RMB"} symbol, 3D effect, glass texture, soft golden gradient, translucent material halo effect, light background contrasting color flow, 3D rendering style, the image is full of breathing sense.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="4096" height="4096" alt="8" src="https://github.com/user-attachments/assets/1ea8a18e-27f8-42c2-8fb3-1dba276a3cb3" />
+
+</div>
+
+### No. 14
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+This is a Q-version hand-drawn illustration of the classic character duo from the Disney animated movie "Zootopia"—Nick the fox and Judy the rabbit. In the image, Nick lies on top of Judy, and they poke their heads out from behind a door together. There are two heart elements beside Judy. The overall style is cute and playful, fully demonstrating the tacit understanding and cuteness of this partner pair, full of a warm atmosphere.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="4096" height="4096" alt="7" src="https://github.com/user-attachments/assets/2137ec23-8142-41a5-8763-3bb1f649ad1e" />
+
+</div>
+
 ### No. 13
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
