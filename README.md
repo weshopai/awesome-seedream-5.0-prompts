@@ -60,8 +60,184 @@ Seedream 5.0 is a next-generation multimodal reasoning and generation model desi
 
 ## 📋 All Prompts
 
-> all prompts collected
+> countinue updating...
 
+### No. 13
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+把图 1 改成图 2 的风格
+```
+
+#### 🖼️ Reference
+
+<div align="center">
+
+<table>
+	<tr>
+		<td>
+			<img width="519" height="745" alt="Screenshot 2026-02-14 at 2 03 09 PM" src="https://github.com/user-attachments/assets/356a4c1d-b016-4810-aac8-8eb7f413cd30" />
+		</td>
+		<td width="50%">
+			<img src="https://github.com/user-attachments/assets/cf0d63f7-5837-4450-bd9a-96ec3579af86" />
+		</td>
+	</tr>
+</table>
+
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="508" height="723" alt="Screenshot 2026-02-14 at 2 03 21 PM" src="https://github.com/user-attachments/assets/70193dc2-f87f-49e8-96c5-d46b077c2b3c" />
+
+</div>
+
+### No. 12
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+识别图片中的食物热量，并把信息标注在图上
+```
+
+#### 🖼️ Reference
+
+<div align="center">
+
+![20251120_1_a6d6a052-5bc4-4d38-b7b5-00c7a83c38dd_3488x4800-1488x2048](https://github.com/user-attachments/assets/59393329-3963-4eb2-a5f8-2c675f2792c4)
+
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![3-4](https://github.com/user-attachments/assets/b70dc4a0-54a0-424a-aacd-71c669e4ad7c)
+
+</div>
+
+### No. 11
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+一只金属闹钟，表盘上黑色粗短的时针指向 8，红色细长的粉针指向 1
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="4096" height="4096" alt="3-3" src="https://github.com/user-attachments/assets/16a26336-6bab-4439-bd94-4366eb5e4f6f" />
+
+</div>
+
+### No. 10
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+基于参考图，提取一张时尚平铺摄影图：包含人物穿搭以及手中道具
+```
+
+#### 🖼️ Reference
+
+<div align="center">
+
+![1f8d156302176e901de869e02ed4615f](https://github.com/user-attachments/assets/c6a4b031-17c6-4fdc-80e2-9164c45328e5)
+
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![3-2](https://github.com/user-attachments/assets/6d4fd14e-b19f-4f51-b0ed-cd9581946b50)
+
+</div>
+
+### No. 9
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+一只熊正在和一头驴玩跷跷板，驴比熊重
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="4096" height="4096" alt="3-1" src="https://github.com/user-attachments/assets/4863499e-1b22-4d27-87bd-2f14438d41d6" />
+
+</div>
+
+### No. 8
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+帮我生成 iPhone17 promax，打开实时检索
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+<img width="4096" height="4096" alt="2-3" src="https://github.com/user-attachments/assets/145a17ce-472e-4f97-8577-6e0801a08ad6" />
+
+</div>
+
+### No. 7
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+Create a Nordic Winter Olympics poster: a Norwegian aurora background, a skier wearing the national uniform, including Winter Olympics elements and a mascot.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+<img width="2737" height="4096" alt="2-2" src="https://github.com/user-attachments/assets/1a3e9541-499c-4d60-8756-fcb979a3ed28" />
+
+</div>
+
+### No. 6
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+#### 📝 Prompt
+
+```
+Referring to the “Duolingo” app interface, design a vocabulary check-in page with words and days, using that green bird element.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+  
+<img width="2304" height="4096" alt="2-1" src="https://github.com/user-attachments/assets/cae31e58-bae1-4daf-a5b9-dc73a90c2cbd" />
+
+</div>
 
 ### No. 5
 
