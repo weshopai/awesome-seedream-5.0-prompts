@@ -62,6 +62,96 @@ Seedream 5.0 is a next-generation multimodal reasoning and generation model desi
 
 > countinue updating...
 
+### No. 25
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+Candid night street snap of a charismatic female Korean K-pop idol. She is wearing a loose-fitting blue midi dress paired with chunky white canvas sneakers and a navy baseball cap worn backwards. Direct harsh camera flash, heavy film grain, high ISO, disposable camera aesthetic, lo-fi analog film look. She has a confident smirk, direct provocative eye contact. **Dynamic hand poses: one hand is playfully pulling down the brim of her backward cap, while the other hand is near her face with fingers curled loosely over her mouth or touching her dyed hair.** Squatting pose on a gritty urban street corner at night, blurred neon signs in the dark background, wet asphalt, high contrast, edgy vibe
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![jimeng-2026-02-14-1142-Candid night street snap of a charismati](https://github.com/user-attachments/assets/b1e2bc92-6484-4403-8e6e-0f0e23c78124)
+
+</div>
+
+### No. 24
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+A vertical composition with an aspect ratio of 9:16 frames a close-up portrait of a young woman who embodies the transcendent allure of a supermodel, her features bathed in the stark, illuminating wash of a direct flash against a void of deep black shadow. She appears to be of Northern European heritage, possessing a porcelain-fair complexion with cool pink undertones, the skin dewy and radiant, glowing with an ethereal perfection. Her age is estimated to be in the fresh bloom of her early twenties, and her visible form suggests a slender, lithe build, characterized by a delicate neck and prominent collarbones. Her face is tilted slightly upward, showcasing flawless symmetry and high, sculpted cheekbones flushed with a vibrant rosy hue. Piercing blue eyes, wide and captivating, gaze upward with profound depth, their crystalline color contrasting dramatically with the tumble of long, raven-black hair that frames her face in loose, messy waves, with stray strands catching the light across her nose and cheeks. Her lips are exceptionally full and inviting, coated in a glossy sheen that reflects the light, parted slightly to reveal a glimpse of teeth in an expression of breathless elegance. Around her neck, a classic strand of white pearls sits tight against the skin, leading down to a white garment adorned with gathered fabric and delicate lace trim at the bust. The lighting emphasizes the high points of her face—the tip of her button nose, the cupid's bow, and the chin—creating a visual hierarchy that celebrates her mesmerizing aesthetic grace within the darkness.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![图片 (2)](https://github.com/user-attachments/assets/d7cf1e3b-1279-4b7f-bac2-449357999a3f)
+
+</div>
+
+### No. 23
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+In a vertical composition that elongates the frame into a 9:16 reverence of form, a young woman of East Asian lineage sits poised upon a painted carousel horse, her presence radiating the dewy freshness of her early twenties. Her figure is slender and athletic, a lithe silhouette defined by the casual drape of a white cropped t-shirt and the rugged texture of frayed blue denim shorts that reveal toned legs and a sculpted midriff. Her skin glows with a porcelain fairness, smooth and luminous under the soft ambient light, enhancing the transcendent allure of her supermodel-like visage. High arched cheekbones and flawless symmetry define her face, where deep, captivating eyes of profound dark hues gaze forward with mesmerizing elegance, accompanied by full, inviting lips curved into a warm, serene smile. She embraces the gilded, spiraling pole of the carousel with both hands, her dark hair falling loosely about her shoulders, anchoring herself amidst the whimsical swirl of the ride. Below her, the white steed with its golden mane and teal saddle offers a fantastical perch, while the background dissolves into a soft blur of amusement park magic, featuring the intricate, painted ceiling of the carousel and the distant, spoked wheel of a Ferris wheel rising against the pale light of the evening sky, all weaving a seamless tapestry of youthful grace and sublime aesthetic harmony. Close up, extra details --ar 9:16
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![图片 (1)](https://github.com/user-attachments/assets/9823033c-c104-4b2b-9e92-4e2db8355986)
+
+</div>
+
+### No. 22
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+In the quiet grain of a dimly lit interior, a slender figure captures her own reflection, emanating a delicate, porcelain fairness evocative of Northern European frost. Her features, partially veiled by the phone she holds, suggest the dewy freshness of late adolescence or early twenties, possessing the captivating allure of a high-fashion muse. Wisps of platinum blonde hair fall in soft bangs, framing a face defined by high cheekbones and full, inviting lips that pout slightly in the low light. Her physique is lithe and delicate, a testament to slender grace, clad in an ensemble that balances innocence with edge. A white, corset-style camisole with intricate lacing hugs her torso, contrasted by the dark, open embrace of a black cardigan sliding off her shoulders. Below, black denim shorts sit high on her waist, giving way to legs adorned in sheer, slate-grey thigh-high stockings that accentuate her long, elegant lines. The setting is intimate and unpolished, with the reflection caught within a tall mirror; behind her, the mundane details of a room—a mounted air conditioner and the warm, amber glow spilling from an adjacent doorway—fade into a soft, grainy backdrop. The composition, envisioned in a vertical 9:16 aspect ratio, emphasizes her statuesque posture, while the digital noise adds a raw, tangible texture to this moment of quiet vanity.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![图片](https://github.com/user-attachments/assets/c69bf361-360f-44bd-b0ee-694b453b24f1)
+
+</div>
+
+### No. 21
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+Hero lands on wet street, rain mixes with dust shockwave, debris obeys gravity, cinematic handheld chaos.
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+![HBBV2fUawAAMZAo](https://github.com/user-attachments/assets/bb376404-d52b-47dd-a9e5-6b2d85e7fa62)
+
+</div>
+
 ### No. 20
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
