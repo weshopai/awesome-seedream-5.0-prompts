@@ -1,4 +1,4 @@
-# awesome-seedream-5.0-prompts
+# 🤖 Awesome Seedream 5.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
