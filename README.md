@@ -43,10 +43,15 @@ Why use WeShop AI?
 
 ## 🤔 What is Seedream 5.0?
 Seedream 5.0 is a next-generation multimodal reasoning and generation model designed to deliver fast, accurate, and controllable creative outputs through real-time knowledge retrieval, precision editing, and intelligent logical processing.
+
 	-	🔎 Real-Time Online Search – Retrieves up-to-date information instantly to ground responses in current knowledge and improve generation accuracy.
+	
 	- 🎯 Precise & Controllable Editing – Enables fine-grained control over visual and textual outputs for iterative refinement and production-ready results.
+	
 	-	🧠 Intelligent Logical Reasoning – Advanced reasoning capabilities ensure coherent understanding, structured responses, and reliable decision-making.
+	
 	-	⚡ High-Resolution Visual Generation – Supports stunning 2K and 4K output quality for cinematic, design, and commercial use cases.
+	
 	-	🌍 Multilingual Understanding – Robust comprehension across Chinese and English prompts for global creative workflows.
 
 📚 Learn More: [Seedream 5.0 Preview Documentation](https://waytoagi.feishu.cn/wiki/B8UMwmOeciCbmRk799wcmoutnXb)
