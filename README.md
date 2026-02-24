@@ -1,4 +1,4 @@
-# 🤖 Awesome Seedream 5.0 Prompts
+<img width="610" height="397" alt="29" src="https://github.com/user-attachments/assets/e5df46a8-31d7-456f-ba0c-0b7593da4364" /># 🤖 Awesome Seedream 5.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
@@ -61,6 +61,52 @@ Seedream 5.0 is a next-generation multimodal reasoning and generation model desi
 ## 📋 All Prompts
 
 > countinue updating...
+### No. 30
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将图1的服装换为图2的服装
+```
+#### 🖼️ Reference
+<div align="center">
+<table>
+<tr>
+<td><img width="567" height="569" alt="30-1" src="https://github.com/user-attachments/assets/924794b8-613b-4746-a853-35c4ef6df8fa" /></td>
+<td><img width="645" height="641" alt="30-2" src="https://github.com/user-attachments/assets/d2a61071-4f44-4629-ac53-99443db9fca4" /></td>
+</tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+<img width="573" height="571" alt="30-g" src="https://github.com/user-attachments/assets/6363f997-730e-47ca-bed3-d76e4c071db5" />
+</div>
+### No. 29
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考这个LOGO，做一套户外运动品牌视觉设计，品牌名称为“GREEN”，包括包装袋、帽子、卡片、挂绳等。绿色视觉主色调，趣味、简约现代风格。
+```
+#### 🖼️ Reference
+<div align="center">
+<img width="610" height="397" alt="29" src="https://github.com/user-attachments/assets/150067ab-9b27-4063-bffd-ece30cc8c462" />
+
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+<img width="572" height="572" alt="29-g" src="https://github.com/user-attachments/assets/ca17093f-bb86-4d43-8a76-aa1f6525eea0" />
+
+</div>
+
 
 ### No. 28
 
