@@ -62,6 +62,73 @@ Seedream 5.0 is a next-generation multimodal reasoning and generation model desi
 
 > countinue updating...
 
+### No. 28
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+保持模特姿势和液态服装的流动形状不变。将服装材质从银色金属改为完全透明的清水（或玻璃）。透过液态水流，可以看到模特的皮肤细节。光影从反射变为折射。
+```
+#### 🖼️ Reference
+<div align="center">
+<img width="574" height="576" alt="28" src="https://github.com/user-attachments/assets/4adab39d-a1e8-4ee1-8e10-68025e6055db" />
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+<img width="574" height="573" alt="28-g" src="https://github.com/user-attachments/assets/8c69162a-ba9f-4b9d-9a54-1e22ba846271" />
+</div>
+
+### No. 27
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考图1，生成四图片，图中人物分别带着墨镜，骑着摩托，带着帽子，拿着棒棒
+```
+#### 🖼️ Reference
+<div align="center">
+<img width="571" height="571" alt="27-r" src="https://github.com/user-attachments/assets/30156584-cb51-46f3-a225-897dfd62b391" />
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+<table>
+	<tr>
+<td><img width="320" height="425" alt="27-2" src="https://github.com/user-attachments/assets/01be4222-1bab-4e4c-b676-3e877f6c2fc6" /></td>
+<td><img width="320" height="319" alt="27-3" src="https://github.com/user-attachments/assets/ed0b0a50-92f4-4ad0-93cc-b5e1e77d7394" /></td>
+	</tr>
+	<tr>
+<td><img width="320" height="318" alt="27-4" src="https://github.com/user-attachments/assets/ed240c55-6908-43e4-a922-0fa9ed6548af" /></td>
+<td><img width="320" height="425" alt="27" src="https://github.com/user-attachments/assets/b3049028-0953-41dc-a51b-3a0bbbf38205" /></td>
+</tr>
+</table>
+</div>
+
+### No. 26
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+制作一张上海未来5日的天气预报图，采用现代扁平化插画风格，清晰展示每日天气、温度和穿搭建议。 整体为横向排版，标题为“上海未来5日天气预报“，包含5个等宽的垂直卡片，从左到右依次排列。 整体风格为现代、干净、友好的扁平化矢量插画风格，线条清晰，色彩柔和。 人物形象采用年轻男女的卡通插画，表情自然，姿态放松，服装细节清晰。
+```
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<img width="639" height="638" alt="26" src="https://github.com/user-attachments/assets/61141f5d-633f-42ff-8cec-79b8b6e5f33c" />
+
+</div>
+
 ### No. 25
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
