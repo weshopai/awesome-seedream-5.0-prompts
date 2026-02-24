@@ -1,4 +1,4 @@
-<img width="610" height="397" alt="29" src="https://github.com/user-attachments/assets/e5df46a8-31d7-456f-ba0c-0b7593da4364" /># 🤖 Awesome Seedream 5.0 Prompts
+# 🤖 Awesome Seedream 5.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
